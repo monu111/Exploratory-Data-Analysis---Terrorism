@@ -23,7 +23,7 @@ Definition of terrorism:
 "The threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation."
 
 
-### 5. Conclusion of Analysis on Global Terrorism:
+### Conclusion of Analysis on Global Terrorism:
 
 - From the analysis, we can see that most of the attack happend in 2014 & number of activities have gone up sharply after 2010.
 
